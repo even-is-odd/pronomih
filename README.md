@@ -1,8 +1,8 @@
-# pronomyx
+# pronomih
 
 agender pronouns (proposal)
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 |----------|---------|--------|-----------------------|--------------------|-----------|
-| Singular |    AA   |   AB   |          CCr          |        CCrs        |  ABself   |
+| Singular |    ih   |   ih   |          ir           |        irs         |  ihself   |
 | Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
