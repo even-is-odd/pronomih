@@ -1,6 +1,6 @@
 # pronomih
 
-agender pronouns (proposal)
+another take on pronomee
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 |----------|---------|--------|-----------------------|--------------------|-----------|
